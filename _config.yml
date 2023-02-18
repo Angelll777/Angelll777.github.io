@@ -49,7 +49,7 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
  Hello, my name is Angel and I am a beginning computer engineer. In addition to system administration, I also have experience creating games and databases. I want to have my first work experience and acquire leadership and teamwork skills.
- I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+ I am most skilled in: <mark>python</mark> and <mark>play videogames</mark>
 
 content:
   - title: Projects # Title for the section
